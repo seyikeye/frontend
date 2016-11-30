@@ -1,0 +1,54 @@
+body{
+    width:100%;
+    height: 970px;
+    text-align: center;
+    }
+.container{
+    background-image: url(https://cdn.pixabay.com/photo/2016/02/13/11/09/man-1197652_960_720.jpg) no-repeat;
+    width: 100%;
+    height: 900;
+}
+#idUl, ul,li,a{
+
+    display: inline;
+    text-decoration: none;
+    font-size: 20px;
+}
+#idUl,li,a:hover{
+    colour: white;
+}
+.bar{
+    padding-top: 10px;
+    background-color:grey ;
+    width: 100%;
+    height: 17%;
+    font-size: 25;
+}
+.mainBody{
+    margin:auto ;
+    height:80% ;
+    text-align: center;
+    padding:150px;
+
+}
+li,a{
+    padding: 14px 16px;
+    width: 60%;
+    margin: auto;
+}
+article{
+    padding-top: 100px;
+    color: mintcream;
+}
+.box{
+    border-radius:25px;
+    width: 50px;
+    height:50px;
+    background-color: black;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    position: absolute;
+    text-margin:auto;
+}
+
